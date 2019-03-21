@@ -1,0 +1,33 @@
+#results {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 550px;
+}
+.fbf {
+    background-color: #F7F7F7;
+    border: 1px solid #EEEEEE;
+    border-radius: 5px 5px 5px 5px;
+    clear: left;
+    font-size: 1em;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding: 5px 10px 5px 5px;
+}
+.fbf img {
+    float: left;
+    margin-right: 10px;
+}
+.fbf p {
+    margin-bottom: 5px;
+    overflow: hidden;
+    text-align: left;
+}
+.fbf a:link, .fbf a:visited, .fbf a:focus, .fbf a:hover, .fbf a:active {
+    color: #006699;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fbf p span {
+    float: right;
+    font-size: 11px;
+}
